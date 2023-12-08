@@ -1,0 +1,12 @@
+.weather-icon {
+    border-radius: 50%;
+  }
+  
+  .temperature {
+    font-weight: bold;
+  }
+  
+  .description {
+    color: #666;
+  }
+  
